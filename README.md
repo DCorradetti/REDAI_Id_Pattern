@@ -1,7 +1,9 @@
-<img src="https://github.com/neuraldl/DLAtypicalSerotoninergicCells/blob/main/images/Figure2.png" width="368" style="display:inline-block;" />
+
 # Identification of Stone Deterioration Patterns with Large Multimodal Models. 
 [![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0-blue)]() <br>
 [![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/) 
+
+<img src="https://github.com/DCorradetti/REDAI_Id_Pattern/blob/main/results/World%20Heritage2.png" width="600" style="display:inline-block;" />
 
 [Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & José Delgado Rodrigues
 *Grupo de Fisica Matematica, Instituto Superior Tecnico, Av. Rovisco Pais, Lisboa, 1049-001, Portugal*<br>
