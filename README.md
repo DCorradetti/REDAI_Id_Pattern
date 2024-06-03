@@ -3,9 +3,9 @@
 [![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0-blue)]() <br>
 [![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/) 
 
-[Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & José Delgado Rodrigues
-*Grupo de Fisica Matematica, Instituto Superior Tecnico, Av. Rovisco Pais, Lisboa, 1049-001, Portugal*<br>
-*Departamento de Matematica, Universidade do Algarve, Campus de Gambelas, Faro, 8005-139, Faro, Portugal*<br>
+[Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & José Delgado Rodrigues  <\br>
+*Grupo de Fisica Matematica, Instituto Superior Tecnico, Av. Rovisco Pais, Lisboa, 1049-001, Portugal* <\br>
+*Departamento de Matematica, Universidade do Algarve, Campus de Gambelas, Faro, 8005-139, Faro, Portugal* <\br>
 
 This repository is aimed to collect the data and code used for *Identification of Stone Deterioration Patterns with Large Multimodal Models* by Daniele Corradetti & José Delgado Rodrigues. 
 
