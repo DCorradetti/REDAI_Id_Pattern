@@ -1,5 +1,6 @@
 # Identification of Stone Deterioration Patterns with Large Multimodal Models. 
-[![Paper](https://img.shields.io/badge/REDAI-open_access-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0.1-blue)]() [![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/) 
+[![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0-blue)]() 
+[![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/) 
 
 [Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & José Delgado Rodrigues
 *Grupo de Fisica Matematica, Instituto Superior Tecnico, Av. Rovisco Pais, Lisboa, 1049-001, Portugal*<br>
