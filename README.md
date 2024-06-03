@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0-blue)]() <br>
 [![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/) 
 
-[Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & José Delgado Rodrigues  <br><br>
+[Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & [José Delgado Rodrigues](https://www.researchgate.net/profile/Jose-Rodrigues-39)  <br><br>
 *Grupo de Fisica Matematica, Instituto Superior Tecnico, Av. Rovisco Pais, Lisboa, 1049-001, Portugal* <br>
 *Departamento de Matematica, Universidade do Algarve, Campus de Gambelas, Faro, 8005-139, Faro, Portugal* <br>
 
