@@ -9,8 +9,8 @@
 
 This repository is aimed to collect the data and code used for *Identification of Stone Deterioration Patterns with Large Multimodal Models* by Daniele Corradetti & José Delgado Rodrigues. 
 
-[![Paper](https://img.shields.io/badge/TEST-Id_Pattern-yellow)]()[Test_Id_Pattern](https://github.com/DCorradetti/REDAI_Id_Pattern/tree/main/Test_JDR) <br>
-[![Paper](https://img.shields.io/badge/RESULTS-Id_Pattern-green)]()[Results GPT-4omni, Gemini 1.5 Pro, Claude 3 Opus](https://github.com/DCorradetti/REDAI_Id_Pattern/tree/main/results) <br>
+[![Paper](https://img.shields.io/badge/TEST-Id_Pattern-yellow)]() Test Id_Pattern for evaluating LMMs available here [Test_Id_Pattern](https://github.com/DCorradetti/REDAI_Id_Pattern/tree/main/Test_JDR) <br>
+[![Paper](https://img.shields.io/badge/RESULTS-Id_Pattern-green)]() Results of GPT-4omni, Gemini 1.5 Pro, Claude 3 Opus available here [Results](https://github.com/DCorradetti/REDAI_Id_Pattern/tree/main/results) <br>
 
 ## Overview
 The conservation of stone-based cultural heritage sites is a critical concern for preserving cultural and historical landmarks. With the advent of Large Multimodal Models (e.g. those developed by OpenAI GPT-4omni, Anthropic Claude 3 Opus and Google Gemini 1.5 Pro) is becoming increasingly important to define the operational capabilities of these models. In this work, we systematically evaluate the abilities of the main foundational multimodal models to recognize and classify anomalies and deterioration patterns of the stone elements that are useful in the practice of conservation and restoration of world heritage. After defining a taxonomy of the main stone deterioration patterns and anomalies, we asked the foundational models to identify a curated selection of 354 highly representative images of stone-built heritage, offering them a careful selection of labels to choose from. The result, which varies depending on the type of pattern, allowed us to identify the strengths and weaknesses of these models in the field of heritage conservation and restoration.
