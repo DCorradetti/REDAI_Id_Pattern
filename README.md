@@ -22,6 +22,9 @@ In recent years, advances in artificial intelligence and machine learning have o
 
 Despite the extensively studied abilities of these LMMs, the specific skills and limitations of models for heritage conservation applications have not been systematically evaluated. The increasing integration of these models into human operational workflows thus necessitates an extensive and systematic evaluation of how state-of-the-art multimodal models perform on a diverse range of stone pathologies and anomalies, using large, representative image sets.
 
+[![Paper](https://img.shields.io/badge/TEST-Id_Pattern-yellow)]()[Test_Id_Pattern](https://github.com/DCorradetti/REDAI_Id_Pattern/tree/main/Test_JDR)
+[![Paper](https://img.shields.io/badge/RESULTS-Id_Pattern-green)]()[Results GPT-4omni, Gemini 1.5 Pro, Claude 3 Opus](https://github.com/DCorradetti/REDAI_Id_Pattern/tree/main/results)
+
 <img src="https://github.com/DCorradetti/REDAI_Id_Pattern/blob/main/results/ResultComparison4.png" width="600" style="display:inline-block;" />
 <img src="https://github.com/DCorradetti/REDAI_Id_Pattern/blob/main/results/PathologiesByModel_Percentage.png" width="600" style="display:inline-block;" />
 
