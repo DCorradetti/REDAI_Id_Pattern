@@ -1,6 +1,6 @@
 
 # Identification of Stone Deterioration Patterns with Large Multimodal Models. 
-[![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/) <br>
+[![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2406.03207) <br>
 [![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0-blue)]() <br>
 
 
