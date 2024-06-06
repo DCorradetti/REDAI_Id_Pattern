@@ -2,7 +2,8 @@
 # Identification of Stone Deterioration Patterns with Large Multimodal Models. 
 [![Paper](https://img.shields.io/badge/CS-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2406.03207) <br>
 [![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]()[![Paper](https://img.shields.io/badge/version-1.0-blue)]() <br>
-
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/identification-of-stone-deterioration/image-classification-on-id-pattern-dataset)](https://paperswithcode.com/sota/image-classification-on-id-pattern-dataset?p=identification-of-stone-deterioration)
 
 [Corradetti Daniele](https://ualg.academia.edu/DanieleCorradetti) & [José Delgado Rodrigues](https://www.researchgate.net/profile/Jose-Rodrigues-39)  <br><br>
 *Grupo de Fisica Matematica, Instituto Superior Tecnico, Av. Rovisco Pais, Lisboa, 1049-001, Portugal* <br>
