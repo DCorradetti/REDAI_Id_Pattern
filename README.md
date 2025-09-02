@@ -51,6 +51,8 @@ Interestingly, no single model was the best across all categories. For example, 
 ## Update: The RED.AI Id-Pattern Multi-Agent System 💡
 Building on our initial findings, we developed a more advanced, **multi-agent system** called `Id-Pattern` as part of the `RED.AI` (Reabilitação Estrutural Digital através da AI) project. This new approach addresses the limitations of monolithic foundational models, such as "hallucinations," difficulty adhering to specialized terminology, and opaque decision-making processes.
 
+<img src="https://github.com/DCorradetti/REDAI_Id_Pattern/blob/main/results/REDAI_agentes_workflow.jpg?raw=true" width="600" />
+
 ### A New Agentic Architecture
 Instead of relying on a single AI, the `Id-Pattern` system simulates a collaborative team of experts. The architecture consists of **five specialized AI agents**:
 1.  **Lithologist**: Focuses on stone type, texture, and porosity.
