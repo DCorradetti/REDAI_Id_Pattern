@@ -1,4 +1,4 @@
-# REDAI: Id. Pattern Identification of Stone Deterioration Patterns with Multi-Agent System.
+# REDAI: Id. Pattern Identification of Stone Deterioration Patterns with Multi-Agent Systems.
 [![Paper](https://img.shields.io/badge/J._Cultural_Heritage-Paper-blue)](https://doi.org/10.1016/j.culher.2024.11.017) [![Paper](https://img.shields.io/badge/Multi--Agent_System-arXiv:2508.13872-b31b1b?logo=arxiv)](https://arxiv.org/abs/2508.13872) <br>
 [![Paper](https://img.shields.io/badge/REDAI-Project-yellow)]() [![Paper](https://img.shields.io/badge/NEW_RELEASE-Multi--Agent_System-brightgreen)]() [![Paper](https://img.shields.io/badge/version-2.0-blue)]() <br>
 	
